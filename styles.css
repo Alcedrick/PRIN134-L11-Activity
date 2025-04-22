@@ -20,7 +20,7 @@ body {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-color: red;
+  background-color: rgb(195, 74, 243);
   border-radius: 50%;
   cursor: pointer;
 }
